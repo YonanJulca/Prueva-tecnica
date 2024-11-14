@@ -1,3 +1,19 @@
+# API RESTful en Express para Gestión de Usuarios y Tareas
+
+Esta API permite gestionar usuarios y tareas a través de operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Se ha desarrollado en Node.js con Express y utiliza MySQL como base de datos, siguiendo una estructura modular.
+
+## Requisitos
+
+- **Node.js** y **Express**
+- **MySQL** (consultas SQL directas, sin ORM)
+
+## Configuración del Proyecto
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/YonanJulca/Prueva-tecnica.git
+
+
 listar Get de usuarios 
 ![image](https://github.com/user-attachments/assets/b10d5836-86d8-4495-8d2c-1403b82d911b)
 
